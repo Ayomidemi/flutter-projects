@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDFKiYQxSbmod4xK5DcqjwxCNtBA7e6N6U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>63176489651</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brew.app</string>
+	<key>PROJECT_ID</key>
+	<string>brew-crew-ac572</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brew-crew-ac572.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:63176489651:ios:a85d685528a63e17c9cec6</string>
+</dict>
+</plist>
